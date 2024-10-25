@@ -1,0 +1,7 @@
+{
+    "graphviz_path": "/usr/bin/dot",
+    "package_path": "express",
+    "graph_output_path": "graph.dot",
+    "max_depth": 3,
+    "repository_url": "https://registry.npmjs.org/"
+}
