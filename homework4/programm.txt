@@ -1,0 +1,8 @@
+set a0 45
+set a1 1
+set a3 13
+
+read test a1 1
+write a0 a4
+bswap swapped a0
+
